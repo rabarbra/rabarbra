@@ -12,6 +12,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
 <details>
   <summary><b>Things I use a lot now</b></summary>
   <br/>
+
   ![Python](          https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
   ![TypeScript](      https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
   ![MongoDB](         https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
@@ -36,6 +37,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
 <details>
   <summary><b>Things I have some expirience in and used in the past</b></summary>
   <br/>
+
   ![Flask](         https://img.shields.io/badge/Flask-3776AB.svg?&style=flat&logo=flask&logoColor=white&labelColor=black&color=black)&nbsp;
   ![FastApi](       https://img.shields.io/badge/FastAPI-3776AB.svg?&style=flat&logo=fastapi&logoColor=white&color=009585&labelColor=009585)&nbsp;
   ![SQLAlchemy](    https://img.shields.io/badge/SQLAlchemy-788877)&nbsp;
@@ -62,6 +64,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
 <details>
   <summary><b>Things I'm interested in</b></summary>
   <br/>
+
   ![Kubernetes](  https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
   ![Terraform](   https://img.shields.io/badge/Terraform-00599C.svg?&style=flat&logo=terraform&logoColor=7b42bc&color=white&labelColor=white)&nbsp;
   ![RabbitMQ](    https://img.shields.io/badge/RabbitMQ-00599C.svg?&style=flat&logo=rabbitmq&logoColor=ff6701&color=aab5af&labelColor=aab5af)&nbsp;
@@ -75,6 +78,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
 <details>
   <summary><b>Some things I also like</b></summary>
   <br/>
+
   ![Arch](  https://img.shields.io/badge/Arch%20Linux-00599C.svg?&style=flat&logo=archlinux&logoColor=1793d1&color=333333&labelColor=333333)&nbsp;
   ![Dwm](   https://img.shields.io/badge/dwm-00599C.svg?&style=flat&logo=dwm&logoColor=1793d1&color=333333&labelColor=333333)&nbsp;
 </details>
