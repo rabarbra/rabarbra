@@ -14,7 +14,7 @@
 ### Databases
 <p>
   <img width="32" height="32" alt="MongoDB" src="https://unpkg.com/simple-icons@v7/icons/mongodb.svg">
-  <img width="32" height="32" alt="PostgreSQL" src="https://unpkg.com/simple-icons@v7/icons/postgresql.svg">
+  <img width="32" height="32" alt="PostgreSQL" src="https://unpkg.com/simple-icons@v7/icons/postgres.svg">
 </p>
 ### Some devops related stuff
 <p>
