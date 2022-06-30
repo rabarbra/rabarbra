@@ -1,65 +1,39 @@
+<h3 align="center">Contact me:<h3>
 <p align="center">
+  <a href="https://t.me/rabarbrablad/" target="_blank"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rabarbrablad@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/polina-simonenko/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
 
-<details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
-  <br/>
+<summary><b>Main tech knowledge</b></summary>
+<br/>
  
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/GO-%23007ACC.svg?&style=flat&logo=go&logoColor=white)&nbsp;\
-
+![Go](https://img.shields.io/badge/GO-%23007ACC.svg?&style=flat&logo=go&logoColor=white&labelColor=007e9d&color=007e9d)&nbsp;\
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)\
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-
+![Flask](https://img.shields.io/badge/FLASK-3776AB.svg?&style=flat&logo=flask&logoColor=white)&nbsp;
+![FastApi](https://img.shields.io/badge/FASTAPI-3776AB.svg?&style=flat&logo=fastapi&logoColor=white&color=009585&labelColor=009585)&nbsp;\
+![React](https://img.shields.io/badge/REACT-3776AB.svg?&style=flat&logo=react&logoColor=4995ab&color=20232a&labelColor=20232a)&nbsp;
+![React Query](https://img.shields.io/badge/REACTQUERY-3776AB.svg?&style=flat&logo=reactquery&logoColor=white)&nbsp;\
+![Pandas](https://img.shields.io/badge/PANDAS-3776AB.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/PLOTLY-3776AB.svg?&style=flat&logo=plotly&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/NUMPY-3776AB.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;\
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;\
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-
-
+![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;\
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 
-<!-- 
-Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
-Flutter, GetX, BLoC, MobX.
-GitHub, GitLab, Docker, Ansible
-Kotlin, Firebase.
-Ant, Maven, Gradle, 
-VSCode, Eclipse, IntelliJ IDEA.
-HTML, CSS, JavaScript, TypeScript.
-postgresql, pgadmin, mysql, sqlite.
-TDD, BDD, DDD
-clean architecture, hexagonal architecture, onion architecture, mvc, mvvm.
-linux
--->
-</details>
-
-<!-- 
-jquery, sass
-nestjs, nodejs, redis, nginx,
-rest, graphql, grpc
-apache kafka,
-google cloud plataform, google app engine, aws
-oracle, mariadb, mongodb, 
-Kubernates, puppet, github actions
-python, c, cpp, arduino
-php, photoshop
-blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
--->
-
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>Other knowledge</b></summary>
   <br/>
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -68,12 +42,13 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
 ![GRPC](https://img.shields.io/badge/GRPC-4285F4.svg?&style=flat&logo=google&logoColor=white)&nbsp;
-![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;\
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;\
+![C](https://img.shields.io/badge/C-00599C.svg?&style=flat&logo=c&logoColor=white)&nbsp;
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
-![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
+![CMake](https://img.shields.io/badge/CMake-00599C.svg?&style=flat&logo=cmake&logoColor=white)&nbsp;
+![Qt](https://img.shields.io/badge/Qt-00599C.svg?&style=flat&logo=qt&logoColor=white)&nbsp;
+
 
 </details>
 
