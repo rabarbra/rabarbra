@@ -15,7 +15,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   <summary><b>Things I use a lot now</b></summary>
   <br/>
 
-  ![Python](          https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+  ![Python](          https://img.shields.io/badge/Python-3776AB.svg  ?&style=flat&logo=python&logoColor=white)&nbsp;
   ![TypeScript](      https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
   ![MongoDB](         https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![Poetry](          https://img.shields.io/badge/Poetry-3776AB.svg?&style=flat&logo=poetry&logoColor=018ce1&color=1e293b&labelColor=1e293b)&nbsp;\
