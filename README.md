@@ -7,4 +7,6 @@
   <img width="32" height="32" alt="C++" src="https://unpkg.com/simple-icons@v7/icons/cplusplus.svg">
 </p>
 ### Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=rabarbra&show_icons=true&theme=dark)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rabarbra&show_icons=true&theme=dark"/>
+</p>
