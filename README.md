@@ -2,10 +2,18 @@
 My name is Polina.
 I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/).
 <p align="left">
-  <a href="https://t.me/rabarbrablad/" target="_blank"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=whit&color=black" /></a>&nbsp;
-  <a href="mailto:rabarbrablad@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=D14836&color=black" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/polina-simonenko/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=black" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/rabarbrablad" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%230077B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966&color=black" /></a>&nbsp;
+  <a href="https://t.me/rabarbrablad/" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=whit&color=black" />
+  </a>&nbsp;
+  <a href="mailto:rabarbrablad@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=D14836&color=black" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/polina-simonenko/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=black" />
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/rabarbrablad" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%230077B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966&color=black" />
+  </a>&nbsp;
 </p>
 <hr/>
 
@@ -65,22 +73,22 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   <summary><b>Things I'm interested in</b></summary>
   <br/>
 
-  ![Kubernetes](  https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
-  ![Terraform](   https://img.shields.io/badge/Terraform-00599C.svg?&style=flat&logo=terraform&logoColor=7b42bc&color=white&labelColor=white)&nbsp;
-  ![RabbitMQ](    https://img.shields.io/badge/RabbitMQ-00599C.svg?&style=flat&logo=rabbitmq&logoColor=ff6701&color=aab5af&labelColor=aab5af)&nbsp;
-  ![Kafka](       https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;\
-  ![WebAssembly]( https://img.shields.io/badge/WebAssembly-00599C.svg?&style=flat&logo=webassembly&logoColor=654FF0&color=white&labelColor=white)&nbsp;
-  ![GRPC](        https://img.shields.io/badge/GRPC-4285F4.svg?&style=flat&logo=google&logoColor=white)&nbsp;\
-  ![Rust](        https://img.shields.io/badge/Rust-00599C.svg?&style=flat&logo=rust&logoColor=black&color=white&labelColor=white)&nbsp;
-  ![Kotlin](      https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+  ![Kubernetes](  https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white                                  )&nbsp;
+  ![Terraform](   https://img.shields.io/badge/Terraform-00599C.svg?&style=flat&logo=terraform&logoColor=7b42bc&color=white&labelColor=white      )&nbsp;
+  ![RabbitMQ](    https://img.shields.io/badge/RabbitMQ-00599C.svg?&style=flat&logo=rabbitmq&logoColor=ff6701&color=aab5af&labelColor=aab5af      )&nbsp;
+  ![Kafka](       https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white                            )&nbsp;\
+  ![WebAssembly]( https://img.shields.io/badge/WebAssembly-00599C.svg?&style=flat&logo=webassembly&logoColor=654FF0&color=white&labelColor=white  )&nbsp;
+  ![GRPC](        https://img.shields.io/badge/GRPC-4285F4.svg?&style=flat&logo=google&logoColor=white                                            )&nbsp;\
+  ![Rust](        https://img.shields.io/badge/Rust-00599C.svg?&style=flat&logo=rust&logoColor=black&color=white&labelColor=white                 )&nbsp;
+  ![Kotlin](      https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white                                          )&nbsp;
 </details>
 
 <details>
   <summary><b>Some things I also like</b></summary>
   <br/>
 
-  ![Arch](  https://img.shields.io/badge/Arch%20Linux-00599C.svg?&style=flat&logo=archlinux&logoColor=1793d1&color=333333&labelColor=333333)&nbsp;
-  ![Dwm](   https://img.shields.io/badge/dwm-00599C.svg?&style=flat&logo=dwm&logoColor=1793d1&color=333333&labelColor=333333)&nbsp;
+  ![Arch](  https://img.shields.io/badge/Arch%20Linux-00599C.svg?&style=flat&logo=archlinux&logoColor=1793d1&color=333333&labelColor=333333 )&nbsp;
+  ![Dwm](   https://img.shields.io/badge/dwm-00599C.svg?&style=flat&logo=dwm&logoColor=1793d1&color=333333&labelColor=333333                )&nbsp;
 </details>
 
 
