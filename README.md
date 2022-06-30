@@ -15,25 +15,25 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   <summary><b>Things I use a lot now</b></summary>
   <br/>
 
-  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
-  ![Poetry](https://img.shields.io/badge/Poetry-3776AB.svg?&style=flat&logo=poetry&logoColor=018ce1&color=1e293b&labelColor=1e293b)&nbsp;\
-  ![React](https://img.shields.io/badge/React-3776AB.svg?&style=flat&logo=react&logoColor=4995ab&color=20232a&labelColor=20232a)&nbsp;
-  ![MUI](https://img.shields.io/badge/MUI-3776AB.svg?&style=flat&logo=mui&logoColor=0080ff&color=071b2e&labelColor=071b2e)&nbsp;
+  ![Python](          https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+  ![TypeScript](      https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+  ![MongoDB](         https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+  ![Poetry](          https://img.shields.io/badge/Poetry-3776AB.svg?&style=flat&logo=poetry&logoColor=018ce1&color=1e293b&labelColor=1e293b)&nbsp;\
+  ![React](           https://img.shields.io/badge/React-3776AB.svg?&style=flat&logo=react&logoColor=4995ab&color=20232a&labelColor=20232a)&nbsp;
+  ![MUI](             https://img.shields.io/badge/MUI-3776AB.svg?&style=flat&logo=mui&logoColor=0080ff&color=071b2e&labelColor=071b2e)&nbsp;
   ![Create React App](https://img.shields.io/badge/Create%20React%20App-3776AB.svg?&style=flat&logo=createreactapp&logoColor=09d3ad&color=303847&labelColor=303847)&nbsp;
-  ![React Query](https://img.shields.io/badge/React%20Query-3776AB.svg?&style=flat&logo=reactquery&logoColor=012c4b&color=ff4154&labelColor=ff4154)&nbsp;
-  ![React Router](https://img.shields.io/badge/React%20Router-3776AB.svg?&style=flat&logo=reactrouter&logoColor=white&color=black&labelColor=black)&nbsp;\
-  ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-  ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-  ![GithubActions](https://img.shields.io/badge/Github%20Actions-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
-  ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-  ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-  ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;\
-  ![Bash](https://img.shields.io/badge/Bash-00599C.svg?&style=flat&logo=gnubash&logoColor=white&color=a32d2a&labelColor=a32d2a)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
-  ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-  ![Insomnia](https://img.shields.io/badge/Insomnia-00599C.svg?&style=flat&logo=insomnia&logoColor=5e01d4&color=black&labelColor=black)&nbsp;
+  ![React Query](     https://img.shields.io/badge/React%20Query-3776AB.svg?&style=flat&logo=reactquery&logoColor=012c4b&color=ff4154&labelColor=ff4154)&nbsp;
+  ![React Router](    https://img.shields.io/badge/React%20Router-3776AB.svg?&style=flat&logo=reactrouter&logoColor=white&color=black&labelColor=black)&nbsp;\
+  ![Git](             https://img.shields.io/badge/Git-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+  ![GitHub](          https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+  ![GithubActions](   https://img.shields.io/badge/Github%20Actions-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
+  ![Docker](          https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+  ![AWS](             https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+  ![Firebase](        https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;\
+  ![Bash](            https://img.shields.io/badge/Bash-00599C.svg?&style=flat&logo=gnubash&logoColor=white&color=a32d2a&labelColor=a32d2a)&nbsp;
+  ![NodeJS](          https://img.shields.io/badge/NodeJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+  ![VSCode](          https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+  ![Insomnia](        https://img.shields.io/badge/Insomnia-00599C.svg?&style=flat&logo=insomnia&logoColor=5e01d4&color=black&labelColor=black)&nbsp;
 </details>
 
 <details>
