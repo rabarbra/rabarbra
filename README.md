@@ -43,7 +43,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=4382b4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Python-ffffff.svg?&logo=python&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Python-eceff4.svg?&logo=python&logoColor=4382b4">
     <img alt="Python" src="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=4382b4">
   </picture>
   <picture>
@@ -61,6 +61,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Poetry-eceff4.svg?&logo=poetry&logoColor=018ce1">
     <img alt="Poetry" src="https://img.shields.io/badge/Poetry-eceff4.svg?&logo=poetry&logoColor=018ce1">
   </picture>
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2e3440.svg?&logo=react&logoColor=4995ab">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
