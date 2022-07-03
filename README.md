@@ -3,16 +3,20 @@ My name is Polina.
 I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/).
 <p align="left">
   <a href="https://t.me/rabarbrablad/" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-2e3440.svg?&style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/telegram-eceff4.svg?&style=for-the-badge&logo=telegram#gh-light-mode-only" />
+    <img src="https://img.shields.io/badge/telegram-2e3440.svg?&style=for-the-badge&logo=telegram#gh-dark-mode-only" />
   </a>&nbsp;
   <a href="mailto:rabarbrablad@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-2e3440.svg?&style=for-the-badge&logo=gmail&logoColor=D14836" />
+    <img src="https://img.shields.io/badge/gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=D14836#gh-light-mode-only" />
+    <img src="https://img.shields.io/badge/gmail-2e3440.svg?&style=for-the-badge&logo=gmail&logoColor=D14836#gh-dark-mode-only" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/polina-simonenko/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-2e3440.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2#gh-light-mode-only" />
+    <img src="https://img.shields.io/badge/linkedin-2e3440.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2#gh-dark-mode-only" />
   </a>&nbsp;
   <a href="https://www.hackerrank.com/rabarbrablad" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2e3440.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966" />
+    <img src="https://img.shields.io/badge/HackerRank-eceff4.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966#gh-light-mode-only" />
+    <img src="https://img.shields.io/badge/HackerRank-2e3440.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966#gh-dark-mode-only" />
   </a>&nbsp;
 </p>
 <hr/>
@@ -91,9 +95,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   ![Dwm](   https://img.shields.io/badge/dwm-333333.svg?&logo=dwm&logoColor=1793d1                )&nbsp;
 </details>
 
-<a href="https://github.com/rabarbra#gh-light-mode-only">
+<a href="https://github.com/rabarbra">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabarbra&theme=nord_bright#gh-light-mode-only" alt="My GitHub Stats"/>
-</a>
-<a href="https://github.com/rabarbra#gh-dark-mode-only">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabarbra&theme=nord_dark#gh-dark-mode-only" alt="My GitHub Stats"/>
 </a>
