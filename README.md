@@ -34,43 +34,50 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   <summary><b>Things I use a lot now</b></summary>
   <br/>
 
-  ![Python](          https://img.shields.io/badge/Python-eceff4.svg?&logo=python&logoColor=4382b4&#gh-light-mode-only                  )
+  ![Python](          https://img.shields.io/badge/Python-eceff4.svg?&logo=python&logoColor=4382b4&#gh-light-mode-only                  )&nbsp;
+  ![TypeScript](      https://img.shields.io/badge/TypeScript-eceff4.svg?&logo=typescript&logoColor=3278c7#gh-light-mode-only          )&nbsp;
+  ![MongoDB](         https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=00ed64#gh-light-mode-only                )&nbsp;
+  ![Poetry](          https://img.shields.io/badge/Poetry-eceff4.svg?&logo=poetry&logoColor=018ce1#gh-light-mode-only                  )&nbsp;\
+  ![React](           https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab#gh-light-mode-only                    )&nbsp;
+  ![MUI](             https://img.shields.io/badge/MUI-eceff4.svg?&logo=mui&logoColor=0080ff#gh-light-mode-only                        )&nbsp;
+  ![Create React App](https://img.shields.io/badge/Create%20React%20App-eceff4.svg?&logo=createreactapp&logoColor=09d3ad#gh-light-mode-only)&nbsp;
+  ![ReactQuery](      https://img.shields.io/badge/React%20Query-eceff4.svg?&logo=reactquery&logoColor=ff4154#gh-light-mode-only       )&nbsp;
+  ![ReactRouter](     https://img.shields.io/badge/React%20Router-eceff4.svg?&logo=reactrouter&logoColor=white#gh-light-mode-only      )&nbsp;\
+  ![Git](             https://img.shields.io/badge/Git-eceff4.svg?&logo=git&logoColor=f74d27#gh-light-mode-only                        )&nbsp;
+  ![GitHub](          https://img.shields.io/badge/GitHub-eceff4.svg?&logo=github&logoColor=white#gh-light-mode-only                   )&nbsp;
+  ![GithubActions](   https://img.shields.io/badge/Github%20Actions-eceff4.svg?&logo=github-actions&logoColor=2088FF#gh-light-mode-only)&nbsp;
+  ![Docker](          https://img.shields.io/badge/Docker-eceff4.svg?&logo=docker&logoColor=2496ED#gh-light-mode-only                  )&nbsp;
+  ![AWS](             https://img.shields.io/badge/Amazon%20AWS-eceff4.svg?&logo=amazon-aws&logoColor=FF9900#gh-light-mode-only        )&nbsp;
+  ![Firebase](        https://img.shields.io/badge/Firebase-eceff4.svg?&logo=firebase&logoColor=FFCA28#gh-light-mode-only              )&nbsp;\
+  ![Bash](            https://img.shields.io/badge/Bash-eceff4.svg?&logo=gnubash&logoColor=4EAA25#gh-light-mode-only                   )&nbsp;
+  ![NodeJS](          https://img.shields.io/badge/NodeJS-eceff4.svg?&logo=node.js&logoColor=339933#gh-light-mode-only                 )&nbsp;
+  ![VSCode](          https://img.shields.io/badge/VS%20Code-eceff4.svg?&logo=visual-studio-code&logoColor=007ACC#gh-light-mode-only   )&nbsp;
+  ![Insomnia](        https://img.shields.io/badge/Insomnia-eceff4.svg?&logo=insomnia&logoColor=5e01d4#gh-light-mode-only              )&nbsp;
+</details>
+</link>
+<link href="#gh-dark-mode-only">
+<details>
+  <summary><b>Things I use a lot now</b></summary>
+  <br/>
+
   ![Python](          https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=4382b4&#gh-dark-mode-only                   )&nbsp;
-  ![TypeScript](      https://img.shields.io/badge/TypeScript-eceff4.svg?&logo=typescript&logoColor=3278c7#gh-light-mode-only          )
   ![TypeScript](      https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7#gh-dark-mode-only           )&nbsp;
-  ![MongoDB](         https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=00ed64#gh-light-mode-only                )
   ![MongoDB](         https://img.shields.io/badge/MongoDB-2e3440.svg?&logo=mongodb&logoColor=00ed64#gh-dark-mode-only                 )&nbsp;
-  ![Poetry](          https://img.shields.io/badge/Poetry-eceff4.svg?&logo=poetry&logoColor=018ce1#gh-light-mode-only                  )
   ![Poetry](          https://img.shields.io/badge/Poetry-2e3440.svg?&logo=poetry&logoColor=018ce1#gh-dark-mode-only                   )&nbsp;\
-  ![React](           https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab#gh-light-mode-only                    )
   ![React](           https://img.shields.io/badge/React-2e3440.svg?&logo=react&logoColor=4995ab#gh-dark-mode-only                     )&nbsp;
-  ![MUI](             https://img.shields.io/badge/MUI-eceff4.svg?&logo=mui&logoColor=0080ff#gh-light-mode-only                        )
   ![MUI](             https://img.shields.io/badge/MUI-2e3440.svg?&logo=mui&logoColor=0080ff#gh-dark-mode-only                         )&nbsp;
-  ![Create React App](https://img.shields.io/badge/Create%20React%20App-eceff4.svg?&logo=createreactapp&logoColor=09d3ad#gh-light-mode-only)
   ![Create React App](https://img.shields.io/badge/Create%20React%20App-2e3440.svg?&logo=createreactapp&logoColor=09d3ad#gh-dark-mode-only)&nbsp;
-  ![ReactQuery](      https://img.shields.io/badge/React%20Query-eceff4.svg?&logo=reactquery&logoColor=ff4154#gh-light-mode-only       )
   ![ReactQuery](      https://img.shields.io/badge/React%20Query-2e3440.svg?&logo=reactquery&logoColor=ff4154#gh-dark-mode-only        )&nbsp;
-  ![ReactRouter](     https://img.shields.io/badge/React%20Router-eceff4.svg?&logo=reactrouter&logoColor=white#gh-light-mode-only      )
   ![ReactRouter](     https://img.shields.io/badge/React%20Router-2e3440.svg?&logo=reactrouter&logoColor=white#gh-dark-mode-only       )&nbsp;\
-  ![Git](             https://img.shields.io/badge/Git-eceff4.svg?&logo=git&logoColor=f74d27#gh-light-mode-only                        )
   ![Git](             https://img.shields.io/badge/Git-2e3440.svg?&logo=git&logoColor=f74d27#gh-dark-mode-only                         )&nbsp;
-  ![GitHub](          https://img.shields.io/badge/GitHub-eceff4.svg?&logo=github&logoColor=white#gh-light-mode-only                   )
   ![GitHub](          https://img.shields.io/badge/GitHub-2e3440.svg?&logo=github&logoColor=white#gh-dark-mode-only                    )&nbsp;
-  ![GithubActions](   https://img.shields.io/badge/Github%20Actions-eceff4.svg?&logo=github-actions&logoColor=2088FF#gh-light-mode-only)
   ![GithubActions](   https://img.shields.io/badge/Github%20Actions-2e3440.svg?&logo=github-actions&logoColor=2088FF#gh-dark-mode-only )&nbsp;
-  ![Docker](          https://img.shields.io/badge/Docker-eceff4.svg?&logo=docker&logoColor=2496ED#gh-light-mode-only                  )
   ![Docker](          https://img.shields.io/badge/Docker-2e3440.svg?&logo=docker&logoColor=2496ED#gh-dark-mode-only                   )&nbsp;
-  ![AWS](             https://img.shields.io/badge/Amazon%20AWS-eceff4.svg?&logo=amazon-aws&logoColor=FF9900#gh-light-mode-only        )
   ![AWS](             https://img.shields.io/badge/Amazon%20AWS-2e3440.svg?&logo=amazon-aws&logoColor=FF9900#gh-dark-mode-only         )&nbsp;
-  ![Firebase](        https://img.shields.io/badge/Firebase-eceff4.svg?&logo=firebase&logoColor=FFCA28#gh-light-mode-only              )
   ![Firebase](        https://img.shields.io/badge/Firebase-2e3440.svg?&logo=firebase&logoColor=FFCA28#gh-dark-mode-only               )&nbsp;\
-  ![Bash](            https://img.shields.io/badge/Bash-eceff4.svg?&logo=gnubash&logoColor=4EAA25#gh-light-mode-only                   )
   ![Bash](            https://img.shields.io/badge/Bash-2e3440.svg?&logo=gnubash&logoColor=4EAA25#gh-dark-mode-only                    )&nbsp;
-  ![NodeJS](          https://img.shields.io/badge/NodeJS-eceff4.svg?&logo=node.js&logoColor=339933#gh-light-mode-only                 )
   ![NodeJS](          https://img.shields.io/badge/NodeJS-2e3440.svg?&logo=node.js&logoColor=339933#gh-dark-mode-only                  )&nbsp;
-  ![VSCode](          https://img.shields.io/badge/VS%20Code-eceff4.svg?&logo=visual-studio-code&logoColor=007ACC#gh-light-mode-only   )
   ![VSCode](          https://img.shields.io/badge/VS%20Code-2e3440.svg?&logo=visual-studio-code&logoColor=007ACC#gh-dark-mode-only    )&nbsp;
-  ![Insomnia](        https://img.shields.io/badge/Insomnia-eceff4.svg?&logo=insomnia&logoColor=5e01d4#gh-light-mode-only              )
   ![Insomnia](        https://img.shields.io/badge/Insomnia-2e3440.svg?&logo=insomnia&logoColor=5e01d4#gh-dark-mode-only               )&nbsp;
 </details>
 </link>
