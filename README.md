@@ -204,7 +204,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-2e3440.svg?&logo=c&logoColor=A8B9CC">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/-eceff4.svg?&logo=c&logoColor=A8B9CC">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/-eceff4.svg?&logo=c&logoColor=00599C">
     <img alt="C" src="https://img.shields.io/badge/-2e3440.svg?&logo=c&logoColor=A8B9CC">
   </picture>
   <picture>
