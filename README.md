@@ -8,16 +8,22 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   <a href="https://t.me/rabarbrablad/#gh-dark-mode-only" target="_blank">
     <img src="https://img.shields.io/badge/telegram-2e3440.svg?&style=for-the-badge&logo=telegram#gh-dark-mode-only" />
   </a>&nbsp;
-  <a href="mailto:rabarbrablad@gmail.com">
+  <a href="mailto:rabarbrablad@gmail.com#gh-light-mode-only">
     <img src="https://img.shields.io/badge/gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=D14836#gh-light-mode-only" />
+  </a>&nbsp;
+  <a href="mailto:rabarbrablad@gmail.com#gh-dark-mode-only">
     <img src="https://img.shields.io/badge/gmail-2e3440.svg?&style=for-the-badge&logo=gmail&logoColor=D14836#gh-dark-mode-only" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/polina-simonenko/" target="_blank">
+  <a href="https://www.linkedin.com/in/polina-simonenko/#gh-light-mode-only" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2#gh-light-mode-only" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/polina-simonenko/#gh-dark-mode-only" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-2e3440.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2#gh-dark-mode-only" />
   </a>&nbsp;
-  <a href="https://www.hackerrank.com/rabarbrablad" target="_blank">
+  <a href="https://www.hackerrank.com/rabarbrablad#gh-light-mode-only" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-eceff4.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966#gh-light-mode-only" />
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/rabarbrablad#gh-dark-mode-only" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2e3440.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966#gh-dark-mode-only" />
   </a>&nbsp;
 </p>
