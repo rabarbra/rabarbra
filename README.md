@@ -91,4 +91,9 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   ![Dwm](   https://img.shields.io/badge/dwm-333333.svg?&logo=dwm&logoColor=1793d1                )&nbsp;
 </details>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabarbra&theme=nord_dark)  
+<a href="https://github.com/rabarbra#gh-light-mode-only">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabarbra&theme=nord_bright#gh-light-mode-only" alt="My GitHub Stats"/>
+</a>
+<a href="https://github.com/rabarbra#gh-dark-mode-only">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabarbra&theme=nord_dark#gh-dark-mode-only" alt="My GitHub Stats"/>
+</a>
