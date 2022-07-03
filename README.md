@@ -83,7 +83,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Router-2e3440.svg?&logo=reactrouter&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React%20Router-eceff4.svg?&logo=reactrouter&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React%20Router-eceff4.svg?&logo=reactrouter&logoColor=black">
     <img alt="ReactRouter" src="https://img.shields.io/badge/React%20Router-eceff4.svg?&logo=reactrouter&logoColor=white">
   </picture>
   <picture>
@@ -93,7 +93,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-2e3440.svg?&logo=github&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/GitHub-eceff4.svg?&logo=github&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/GitHub-eceff4.svg?&logo=github&logoColor=black">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-eceff4.svg?&logo=github&logoColor=white">
   </picture>
   <picture>
