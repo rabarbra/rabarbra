@@ -29,7 +29,8 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
 </p>
 <hr/>
 
-<details id="#gh-light-mode-only">
+<link href="#gh-light-mode-only">
+<details>
   <summary><b>Things I use a lot now</b></summary>
   <br/>
 
@@ -72,6 +73,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   ![Insomnia](        https://img.shields.io/badge/Insomnia-eceff4.svg?&logo=insomnia&logoColor=5e01d4#gh-light-mode-only              )
   ![Insomnia](        https://img.shields.io/badge/Insomnia-2e3440.svg?&logo=insomnia&logoColor=5e01d4#gh-dark-mode-only               )&nbsp;
 </details>
+</link>
 
 <details>
   <summary><b>Things I have some expirience in and used in the past</b></summary>
