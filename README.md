@@ -29,7 +29,7 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
 </p>
 <hr/>
 
-<details>
+<details id="#gh-light-mode-only">
   <summary><b>Things I use a lot now</b></summary>
   <br/>
 
