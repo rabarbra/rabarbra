@@ -3,16 +3,16 @@ My name is Polina.
 I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/).
 <p align="left">
   <a href="https://t.me/rabarbrablad/" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=whit&color=black" />
+    <img src="https://img.shields.io/badge/telegram-2e3440.svg?&style=for-the-badge&logo=telegram" />
   </a>&nbsp;
   <a href="mailto:rabarbrablad@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=D14836&color=black" />
+    <img src="https://img.shields.io/badge/gmail-2e3440.svg?&style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/polina-simonenko/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=black" />
+    <img src="https://img.shields.io/badge/linkedin-2e3440.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>&nbsp;
   <a href="https://www.hackerrank.com/rabarbrablad" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%230077B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966&color=black" />
+    <img src="https://img.shields.io/badge/HackerRank-2e3440.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966" />
   </a>&nbsp;
 </p>
 <hr/>
@@ -91,7 +91,4 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   ![Dwm](   https://img.shields.io/badge/dwm-333333.svg?&logo=dwm&logoColor=1793d1                )&nbsp;
 </details>
 
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabarbra&theme=github_dark"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabarbra&theme=nord_dark)  
