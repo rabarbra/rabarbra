@@ -34,6 +34,236 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
 <hr/>
 
 <details>
+  <summary><b>Declarative languages</b></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="SQL" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="HTML" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="CSS" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="JIRA Query Language" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Makefile" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Dockerfile" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Docker Compose" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Regexp" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Markdown" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="LaTeX" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="JSON" src="">
+  </picture>
+</details>
+
+<details>
+  <summary><b>Programming languages</b></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Python" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="TypeScript" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Go" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Bash" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="C++" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="C" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Kotlin" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Rust" src="">
+  </picture>
+</details>
+
+<details>
+  <summary><b>Databases</b></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Postgres" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="SQLite" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="MongoDB" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="ElasticSearch" src="">
+  </picture>
+</details>
+
+<details>
+  <summary><b>Backend technologies</b></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="FastApi" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Flask" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="SQLAlchemy" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Pytest" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Swagger" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Firebase" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="NodeJS" src="">
+  </picture>
+</details>
+
+<details>
+  <summary><b>Frontend technologies</b></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="React" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="MUI" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Create React App" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="ReactQuery" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="ReactRouter" src="">
+  </picture>
+</details>
+
+<details>
+  <summary><b>Source code management and deploy</b></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Git" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="GitHub" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="GitHub Actions" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Docker" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Docker Compose" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Poetry" src="">
+  </picture>
+</details>
+
+<details>
   <summary><b>Things I use a lot now</b></summary>
   <br/>
   <picture>
