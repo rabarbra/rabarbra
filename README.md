@@ -159,6 +159,11 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
     <source media="(prefers-color-scheme: light)"srcset="">
     <img alt="ElasticSearch" src="">
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Redis" src="">
+  </picture>
 </details>
 
 <details>
@@ -183,6 +188,11 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
     <source media="(prefers-color-scheme: light)"srcset="">
     <img alt="Pytest" src="">
   </picture>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Poetry" src="">
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="">
     <source media="(prefers-color-scheme: light)"srcset="">
@@ -197,6 +207,26 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
     <source media="(prefers-color-scheme: dark)" srcset="">
     <source media="(prefers-color-scheme: light)"srcset="">
     <img alt="NodeJS" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="gRPC" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="WebSocket" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="RabbitMQ" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Kafka" src="">
   </picture>
 </details>
 
@@ -226,6 +256,11 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
     <source media="(prefers-color-scheme: dark)" srcset="">
     <source media="(prefers-color-scheme: light)"srcset="">
     <img alt="ReactRouter" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="WebAssembly" src="">
   </picture>
 </details>
 
@@ -259,7 +294,82 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="">
     <source media="(prefers-color-scheme: light)"srcset="">
-    <img alt="Poetry" src="">
+    <img alt="Kubernetes" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Terraform" src="">
+  </picture>
+</details>
+
+<details>
+  <summary><b>How to host</b></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="AWS" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Nginx" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Firebase" src="">
+  </picture>
+</details>
+
+<details>
+  <summary><b>Dev tools</b></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="VS Code" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Vim" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Insomnia" src="">
+  </picture>
+</details>
+
+<details>
+  <summary><b>Data analysis tools</b></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="NumPy" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Pandas" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Plotly" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Matplotlib" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Jupyter" src="">
   </picture>
 </details>
 
