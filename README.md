@@ -221,6 +221,11 @@ I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="">
     <source media="(prefers-color-scheme: light)"srcset="">
+    <img alt="Celery" src="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)"srcset="">
     <img alt="RabbitMQ" src="">
   </picture>
   <picture>
