@@ -1,6 +1,4 @@
 ### About me
-My name is Polina.
-I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/).
 <p align="left">
   <a href="https://t.me/rabarbrablad" target="_blank">
     <picture>
