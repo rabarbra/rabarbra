@@ -132,7 +132,50 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Insomnia-2e3440.svg?&logo=insomnia&logoColor=5e01d4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Insomnia-eceff4.svg?&logo=insomnia&logoColor=5e01d4">
     <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-eceff4.svg?&logo=insomnia&logoColor=5e01d4">
-  </picture>  
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Kubernetes-eceff4.svg?&logo=kubernetes&logoColor=326CE5">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Helm-2e3440.svg?&logo=helm&logoColor=326CE5">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Helm-eceff4.svg?&logo=helm&logoColor=326CE5">
+    <img alt="Helm" src="https://img.shields.io/badge/Helm-2e3440.svg?&logo=helm&logoColor=326CE5">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ArgoCD-2e3440.svg">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/ArgoCD-eceff4.svg">
+    <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-2e3440.svg">
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Swagger-2e3440.svg?&logo=swagger&logoColor=green">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Swagger-eceff4.svg?&logo=swagger&logoColor=green">
+    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-2e3440.svg?&logo=swagger&logoColor=green">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Go-2e3440.svg?&logo=go&logoColor=007e9d">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Go-eceff4.svg?&logo=go&logoColor=007e9d">
+    <img alt="Go" src="https://img.shields.io/badge/Go-2e3440.svg?&logo=go&logoColor=007e9d">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Postgres-2e3440.svg?&logo=postgresql&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Postgres-eceff4.svg?&logo=postgresql&logoColor=black">
+    <img alt="Postgres" src="https://img.shields.io/badge/Postgres-2e3440.svg?&logo=postgresql&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/gRPC-2e3440.svg?&logo=google&logoColor=4285F4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/gRPC-eceff4.svg?&logo=google&logoColor=4285F4">
+    <img alt="GRPC" src="https://img.shields.io/badge/gRPC-2e3440.svg?&logo=google&logoColor=4285F4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redis-2e3440.svg?&logo=redis&logoColor=DC382D">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Redis-eceff4.svg?&logo=redis&logoColor=DC382D">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-2e3440.svg?&logo=redis&logoColor=DC382D">
+  </picture>
 </details>
 
 <details>
@@ -164,22 +207,6 @@
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-2e3440.svg?&logo=selenium&logoColor=green">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Swagger-2e3440.svg?&logo=swagger&logoColor=green">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Swagger-eceff4.svg?&logo=swagger&logoColor=green">
-    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-2e3440.svg?&logo=swagger&logoColor=green">
-  </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Go-2e3440.svg?&logo=go&logoColor=007e9d">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Go-eceff4.svg?&logo=go&logoColor=007e9d">
-    <img alt="Go" src="https://img.shields.io/badge/Go-2e3440.svg?&logo=go&logoColor=007e9d">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Postgres-2e3440.svg?&logo=postgresql&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Postgres-eceff4.svg?&logo=postgresql&logoColor=black">
-    <img alt="Postgres" src="https://img.shields.io/badge/Postgres-2e3440.svg?&logo=postgresql&logoColor=white">
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQLite-2e3440.svg?&logo=sqlite&logoColor=white">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/SQLite-eceff4.svg?&logo=sqlite&logoColor=black">
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-2e3440.svg?&logo=sqlite&logoColor=white">
@@ -188,11 +215,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=005571">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Elasticsearch-eceff4.svg?&logo=elasticsearch&logoColor=005571">
     <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=005571">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redis-2e3440.svg?&logo=redis&logoColor=DC382D">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Redis-eceff4.svg?&logo=redis&logoColor=DC382D">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-2e3440.svg?&logo=redis&logoColor=DC382D">
   </picture>
   <br>
   <picture>
@@ -252,11 +274,6 @@
   <summary><b>Things I'm interested in</b></summary>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Kubernetes-eceff4.svg?&logo=kubernetes&logoColor=326CE5">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Terraform-2e3440.svg?&logo=terraform&logoColor=7b42bc">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Terraform-eceff4.svg?&logo=terraform&logoColor=7b42bc">
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-2e3440.svg?&logo=terraform&logoColor=7b42bc">
@@ -276,11 +293,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WebAssembly-2e3440.svg?&logo=webassembly&logoColor=654FF0">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/WebAssembly-eceff4.svg?&logo=webassembly&logoColor=654FF0">
     <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-2e3440.svg?&logo=webassembly&logoColor=654FF0">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/gRPC-2e3440.svg?&logo=google&logoColor=4285F4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/gRPC-eceff4.svg?&logo=google&logoColor=4285F4">
-    <img alt="GRPC" src="https://img.shields.io/badge/gRPC-2e3440.svg?&logo=google&logoColor=4285F4">
   </picture>
   <br>
   <picture>
